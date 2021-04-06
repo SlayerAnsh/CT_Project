@@ -21,4 +21,6 @@ From terminal follow these steps:
 ```
 jupyter lab
 ```
-In jupyter Lab open face_recog_mod.ipynb file. Now goto `Run` menu and click `Run All Cells`. View Results in result folder.
+In jupyter Lab open *.ipynb file. Now goto `Run` menu and click `Run All Cells`. View Results in result folder.
+
+master contain all scripts so if you want to use any one script feel free to checkout respected branch
