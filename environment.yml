@@ -1,4 +1,4 @@
-name: null
+name: /home/anshudhar2001/Desktop/REPOS/ImageOrganiser/env
 channels:
   - conda-forge
   - defaults
